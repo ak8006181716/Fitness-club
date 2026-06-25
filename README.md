@@ -1,3 +1,3 @@
 ﻿# FitnessPlanetClub
 
-live demo ----- https://kamleshjat7782.github.io/FitnessPlanetClub/
+live demo ----- https://jolly-trifle-f4da4f.netlify.app 
