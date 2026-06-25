@@ -889,13 +889,15 @@ body {
   }
 }
 
-.contact-box .section-title {
+.contact-title {
+  font-size: var(--fs-4);
+  text-transform: uppercase;
   margin-block-end: 10px;
 }
 
 .contact-box .section-text {
   color: var(--silver-metallic);
-  margin-block-end: 30px;
+  margin-block-end: 25px;
 }
 
 .contact-content {
