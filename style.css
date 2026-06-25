@@ -380,6 +380,24 @@ body {
   margin-inline-start: -8px;
 }
 
+.logo-text-desktop {
+  display: none;
+}
+
+.logo-text-mobile {
+  display: block;
+}
+
+@media (min-width: 575px) {
+  .logo-text-desktop {
+    display: block;
+  }
+
+  .logo-text-mobile {
+    display: none;
+  }
+}
+
 .logo ion-icon {
   color: var(--coquelicot);
   font-size: 40px;
