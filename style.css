@@ -378,6 +378,7 @@ body {
   display: flex;
   align-items: center;
   margin-inline-start: -8px;
+  white-space: nowrap;
 }
 
 .logo-text-desktop {
@@ -462,6 +463,7 @@ body {
   padding-block: 10px;
   margin-block-end: 20px;
   transition: var(--transition-1);
+  white-space: nowrap;
 }
 
 .navbar-link:is(:hover, :focus, .active) { color: var(--rich-black-fogra-29-1); }
